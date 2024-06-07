@@ -1,0 +1,7 @@
+{
+    "postgres": {
+        "name": "h-lab",
+        "user": "postgres",
+        "password": "postgres"
+    }
+}
